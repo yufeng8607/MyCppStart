@@ -1,15 +1,11 @@
-/*
-
 #include<iostream>
 using namespace std;
 
 int main()
 {
-	//这是一行注释
+	//脮芒脢脟脪禄脨脨脳垄脢脥
 	cout << "Hello world!" << endl;
 		
 	system("pause");
 	return 0;
 }
-
-*/
