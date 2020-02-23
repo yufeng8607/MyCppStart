@@ -1,0 +1,2 @@
+# MyCppStart
+C++Start Code
