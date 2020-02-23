@@ -1,5 +1,3 @@
-/*
-
 #include<iostream>
 using namespace std;
 
@@ -11,26 +9,24 @@ int main()
 	 switch (score)
 	 {
 	 case 5:
-		 cout << "ºÜºÃ" << endl;
+		 cout << "å¾ˆå¥½" << endl;
 		 break;
 	 case 4:
-		 cout << "½ÏºÃ" << endl;
+		 cout << "è¾ƒå¥½" << endl;
 		 break;
 	 case 3:
-		 cout << "Ò»°ã" << endl;
+		 cout << "ä¸€èˆ¬" << endl;
 		 break;
 	 case 2:
-		 cout << "½Ï²î" << endl;
+		 cout << "è¾ƒå·®" << endl;
 		 break;
 	 case 1:
-		 cout << "¼«²î" << endl;
+		 cout << "æžå·®" << endl;
 		 break;
 	 default:
-		 cout << "Î´×ö³öÆÀ¼Û" << endl;
+		 cout << "æœªåšå‡ºè¯„ä»·" << endl;
 		 break;
 	 }
 
 	 return 0;
 }
-
-*/
