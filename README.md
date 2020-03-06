@@ -30,4 +30,5 @@ C++Start Code
 026 C++Primer练习3.20  
 027 利用迭代器遍历并修改string vector  
 028 利用迭代器遍历并修改int vector  
-029 二分查找
+029 二分查找  
+030 C++Primer练习3.35
