@@ -31,4 +31,5 @@ C++Start Code
 027 利用迭代器遍历并修改string vector  
 028 利用迭代器遍历并修改int vector  
 029 二分查找  
-030 C++Primer练习3.35
+030 C++Primer练习3.35  
+031 判断是否为前缀
