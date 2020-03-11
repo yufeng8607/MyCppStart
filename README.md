@@ -36,4 +36,5 @@ C++Start Code
 032 静态变量  
 033 利用引用实现swap函数  
 034 比较字符串长度  
-035 判断vector是否相等，修改vector末位元素的值
+035 判断vector是否相等，修改vector末位元素的值  
+036 初识initializer_list
