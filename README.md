@@ -37,4 +37,7 @@ C++Start Code
 033 利用引用实现swap函数  
 034 比较字符串长度  
 035 判断vector是否相等，修改vector末位元素的值  
-036 初识initializer_list
+036 初识initializer_list  
+037 构造函数初始化属性  
+038 静态成员变量  
+039 利用vector.erase()删除元素
